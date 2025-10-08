@@ -79,4 +79,4 @@ The actor returns structured job listings in JSON format:
 2. Search for **Indeed Jobs Scraper**.  
 3. Enter your search parameters and run the actor.  
 
-Start collecting job data effortlessly! 🚀
+Start collecting job data effortlessly! Acquire market intelligence faster with real-time global job postings 🚀
